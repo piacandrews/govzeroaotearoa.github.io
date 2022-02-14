@@ -5,7 +5,6 @@
 layout: home
 ---
 
-
 Every day we are all encouraged to work in siloes, separated from each other across organisations, sectors, geography, communities, cultures and disciplines. But the challenges and opportunities facing us all can not be solved by a divided community.
 
 Gov Zero Aotearoa (g0v for short) is a grassroots **civil society initiative** in New Zealand, created to bring people together who want to help people and solve problems through open collaboration. We intentionally step outside of our professional boxes to bring our skills, hopes, values and humanity together, so we can solve real world problems in a more open way.
@@ -21,13 +20,13 @@ The first and easiest step is to subscribe to our mailing list, where we will be
 Beyond that, there are many ways to get involved:
 
 - Join our [general notifications mailing list](https://mailchi.mp/1b0bd6351e7f/govzeroaotearoa-updates) to get updates and announcements
-- Join us on [our slack](https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw) to talk, share, learn, collaborate and to keep up with others
-- Starting in March 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
+- Join us on [our slack channel](https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw) to talk, share, learn, collaborate and to keep up with others
+- Starting in March 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news, showcase projects and get peer review
 - Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
 - You can participate in an [existing project](projects) or add your own
 - Share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
 - Join the "Community development" project to help grow this community around Aotearoa
-- Or, you can contribute funding or help apply for grants to support projects that need help
+- Or, you can contribute funding or help apply for grants to support projects that need support
 
 We also encourage professional organisations and NGOs to support your staff to participate in Gov Zero Aotearoa on work time, and to engage or partner with projects where there are shared goals.
 
@@ -35,11 +34,22 @@ We also encourage professional organisations and NGOs to support your staff to p
 
 Anyone can propose or add a project. We will add links and information in the coming weeks so start thinking about the tricky and wicked problems and opportunities you would love to tackle with new friends :)
 
+- [Optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures/) - exploring futures we can both work towards and mitigate, together
+- [Legal Eligibility](https://govzeroaotearoa.github.io/legaleligibility/) - a project to create a repository of legislation as code, with public tools for anyone tolearn what they are legally aligible and entitled to in Aotearoa New Zealand
+
 ## About us
 
 Gov Zero Aotearoa was started by a diverse group of individuals from across Aotearoa New Zealand, with every intent to establish a self-governing, equitable and shared purpose community of doers, that get on with solving problems. The initial crew were Jo Allum, Pia Andrews, Jonah Duckles, Robert O'Brien, Arama Maitara, Hamish Fraser, Tom Barraclough, Ben Tairea, Brenda Wallace, Siobhan McCarthy, Regan Gilmour and more.
 
 We are also going to have an Advisory Circle that all projects can go to for advice, and to help ensure our Community development project stays true. More on that soon!
+
+## Supporters and partners
+
+We appreciate the support and encouragement from our supporters. The following organisations are providing support to projects and community building, and we are always looking for more to get involved :)
+
+- Venture Centre (Tauranga) - our host and legal entity
+- Catalyst IT - providing cloud infrastructure
+- Salsa Digital - participating in projects and seed funding
 
 ## Background
 
