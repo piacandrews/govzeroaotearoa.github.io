@@ -24,6 +24,7 @@ Beyond that, there are many ways to get involved:
 - Join us on [our slack](https://join.slack.com/t/digitalaotearoa/shared_invite/zt-12zvsey93-uiTgn3ddyriYPUYOs_rHnw) to talk, share, learn, collaborate and to keep up with others
 - Starting in March 2022, there will be a [community town hall](townhall) every Friday at 1200 NZT to share news and showcase projects
 - Share your ideas for [optimistic and pessimistic futures](https://govzeroaotearoa.github.io/futures)
+- Check out our [GitHub repository](https://github.com/govzeroaotearoa) for what is happening right now
 - You can participate in an [existing project](projects) or add your own
 - Share an idea, problem or opportunity that others might also want to discuss, and perhaps form a project around
 - Join the "Community development" project to help grow this community around Aotearoa
